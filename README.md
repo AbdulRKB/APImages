@@ -13,4 +13,4 @@ Hi! Do you want to download random photos from the internet to use them as tempo
 ©️ 2020 CyberTitus
 
 This repository is licensed under MIT license.
-See LICENSE for details.
+See <a href="https://raw.githubusercontent.com/CyberTitus/APImages/main/LICENSE">LICENSE</a> for details.

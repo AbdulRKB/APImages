@@ -1,14 +1,14 @@
-# APImages
+<div align="center">
 
-Hi! Do you want to download random photos from the internet to use them as temporary images for your website, but you didn't know how to find the right size? We have a solution for you! APImages give you the power to download random Images from the Internet so that you can use them on your website.
+# 📁 APImages 📁
+*Download or Get links of temporary images during making of templates.*
 
-## Features
+</div>
 
- - Download Images
- - Get Image Links
-
-
-## License
-This repository is licensed under MIT license.
-
-See <a target="_blank" href="https://raw.githubusercontent.com/AbdulRKB/APImages/main/LICENSE">LICENSE</a> for details.
+# Installation and Usage 🧰
+```bash
+$ git clone https://github.com/AbdulRKB/APImages.git
+$ cd APImages
+$ pip install -r requirements.txt
+$ python run.py
+```

@@ -5,7 +5,7 @@
 
 </div>
 
-# Installation and Usage 🧰
+## Installation and Usage 🧰
 ```bash
 $ git clone https://github.com/AbdulRKB/APImages.git
 $ cd APImages

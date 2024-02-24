@@ -2,7 +2,7 @@ import requests, sys
 from string import ascii_lowercase
 from random import choice
 
-class images:
+class Images:
 	def __init__(self, width, height):
 		self.width = width
 		self.height = height
@@ -27,7 +27,7 @@ def main():
 	height = str(input('Image Height: '))
 	print('[1] Get Image URL\n[2] Download Image')
 	option = str(input('Select Option: '))
-	start = images(width,height)
+	start = Images(width,height)
 	if option == '1':
 		url = start.getImageURL()
 		print(f'[+] Image URL: {url}')
